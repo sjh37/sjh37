@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 View my courses over at
   - [Pluralsight - Code-first Entity Framework with Legacy Databases](https://www.pluralsight.com/authors/simon-hughes)
   - [Packt | C# 7.x Tips, Tricks, and Techniques](https://www.packtpub.com/product/c-7-x-tips-tricks-and-techniques-video/9781789341553)
-- ⚡ Fun fact: I love to do Photography (Panasonic Lumix GX-80) and Archery (Hoyt compound bow).
+- ⚡ Fun fact: I love to do Photography, Archery (compound bow) and woodworking (I have a DeWalt table saw and still have all my fingers!).
  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sjh37&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
